@@ -34,7 +34,7 @@ R| * Validação dos campos obrigatórios
    * Feedback visual ao usuário (erros e sucesso)
 
 ## 4. Casos de Teste
-R| LINK DA PLANILHA
+R| [LINK DA PLANILHA](https://docs.google.com/spreadsheets/d/1KHcSUWQkg9tj_2JuIzu_tlciMmEoVaQu/edit?usp=sharing&ouid=104749472824035093646&rtpof=true&sd=true)
 
 ## 5. Evidências
 R| Link do Drive
