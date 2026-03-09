@@ -37,7 +37,7 @@ R| * Validação dos campos obrigatórios
 R| [LINK DA PLANILHA](https://docs.google.com/spreadsheets/d/1KHcSUWQkg9tj_2JuIzu_tlciMmEoVaQu/edit?usp=sharing&ouid=104749472824035093646&rtpof=true&sd=true)
 
 ## 5. Evidências
-R| Link do Drive
+R| Link das evid^ncias
 
 ## 6. Bugs Encontrados
-R| Lista de Bugs
+R| [Link do Drive](https://drive.google.com/drive/folders/1GoM8OrIvDgW7orv8007RVvPPXLzQH2AI?usp=sharing)
